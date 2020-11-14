@@ -1,0 +1,22 @@
+Aşağıda verilen 6 elamanı 4 özelliği olan 2 sınıfın birbirinden linear olarak ayrılıp ayrılamadığını bulunuz.
+
+NOT: covariance matrisini kullanabilirsiniz
+
+x1 sınıfı
+
+-10	10	2	4
+-4	-1	2	-6
+5	-8	2	-1
+5	4	10	1
+8	-7	9	-3
+-2	-5	5	2
+  
+
+x2 sınıfı
+
+-6	8	-7	-4
+-6	10	-7	-9
+3	10	-2	-9
+8	3	-6	-2
+-4	-4	-10	-7
+-9	-4	4	2
